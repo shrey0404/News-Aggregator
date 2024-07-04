@@ -32,3 +32,32 @@ The News Aggregator Website is a comprehensive platform that fetches and display
    ```bash
    git clone https://github.com/yourusername/news-aggregator.git
    cd news-aggregator
+
+1. **Install Dependencies**
+
+   ```bash
+   cd frontend
+   npm install
+
+   cd ../backend
+   npm install
+
+
+1. **Environment Variables**
+
+Create a .env file in the server directory with the following variables:
+
+   ```bash
+   PORT=5000
+NEWS_API_KEY=your_news_api_key
+MONGO_URI=your_mongodb_connection_string
+```
+4 **Run the application**
+
+   ```bash
+   cd server
+node server.js
+
+cd client
+npm start
+
