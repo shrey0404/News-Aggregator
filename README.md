@@ -4,6 +4,8 @@
 
 The News Aggregator Website is a comprehensive platform that fetches and displays news from various sources using NewsAPI. It is designed to provide users with access to all news, top headlines in different segments, and country-wise news aggregation. The website is built using the MERN stack (MongoDB, Express, React, Node.js).
 
+![news](https://github.com/shrey0404/News-Aggregator/assets/121557964/73360c37-53cb-4af6-83fa-b9563106ba06)
+
 ## Features
 
 - **All News**: Displays news from multiple sources globally.
